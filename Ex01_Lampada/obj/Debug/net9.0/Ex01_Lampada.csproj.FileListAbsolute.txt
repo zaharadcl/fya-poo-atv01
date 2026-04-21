@@ -1,0 +1,14 @@
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\bin\Debug\net9.0\Ex01_Lampada.exe
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\bin\Debug\net9.0\Ex01_Lampada.deps.json
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\bin\Debug\net9.0\Ex01_Lampada.runtimeconfig.json
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\bin\Debug\net9.0\Ex01_Lampada.dll
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\bin\Debug\net9.0\Ex01_Lampada.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.AssemblyInfoInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.AssemblyInfo.cs
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.dll
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\refint\Ex01_Lampada.dll
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\Ex01_Lampada.genruntimeconfig.cache
+C:\Users\zahar\Downloads\atv.POO\Ex01_Lampada\obj\Debug\net9.0\ref\Ex01_Lampada.dll
