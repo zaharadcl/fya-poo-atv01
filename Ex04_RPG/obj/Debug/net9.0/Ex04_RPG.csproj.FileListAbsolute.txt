@@ -1,0 +1,15 @@
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\bin\Debug\net9.0\Ex04_RPG.exe
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\bin\Debug\net9.0\Ex04_RPG.deps.json
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\bin\Debug\net9.0\Ex04_RPG.runtimeconfig.json
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\bin\Debug\net9.0\Ex04_RPG.dll
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\bin\Debug\net9.0\Ex04_RPG.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.AssemblyInfoInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.AssemblyInfo.cs
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.sourcelink.json
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.dll
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\refint\Ex04_RPG.dll
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\Ex04_RPG.genruntimeconfig.cache
+C:\Users\zahar\Downloads\atv.POO\Ex04_RPG\obj\Debug\net9.0\ref\Ex04_RPG.dll
