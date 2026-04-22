@@ -1,0 +1,15 @@
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\bin\Debug\net9.0\Ex03_Conta.exe
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\bin\Debug\net9.0\Ex03_Conta.deps.json
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\bin\Debug\net9.0\Ex03_Conta.runtimeconfig.json
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\bin\Debug\net9.0\Ex03_Conta.dll
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\bin\Debug\net9.0\Ex03_Conta.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.AssemblyInfoInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.AssemblyInfo.cs
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.sourcelink.json
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.dll
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\refint\Ex03_Conta.dll
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.pdb
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\Ex03_Conta.genruntimeconfig.cache
+C:\Users\zahar\Downloads\atv.POO\Ex03_Conta\obj\Debug\net9.0\ref\Ex03_Conta.dll
